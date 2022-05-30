@@ -1,9 +1,6 @@
 ### Olá! Eu sou a Bárbara Rebeca Bocelli Braz!!! 👋
 
 - 🌱 Estudando HTML5 E CSS3.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 Me contate por rebeca.bocelli@gmail.com
 - 😄 Pronouns: ela/dela
 
